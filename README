@@ -1,0 +1,3 @@
+University of California, Irvine Student Bus Shuttle Tracking App
+Request using GET method and response by server JSON.
+I borrow SBJSon to get the response as data. All other implementation by Yoon Lee.

@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'BUS' target in the 'BUS' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import "AppConfig.h"
+#endif
